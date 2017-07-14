@@ -1,0 +1,3 @@
+pip install selenium
+pip install pyvirtualdisplay
+sudo apt-get install xvfb
